@@ -1,0 +1,26 @@
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe.config
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.pdb
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Form1.resources
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Properties.Resources.resources
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.GenerateResource.cache
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.CoreCompileInputs.cache
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.exe
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.pdb
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Form2.resources
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Form3.resources
+C:\Users\ELVIN\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Selecthall.resources
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csprojResolveAssemblyReference.cache
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Form1.resources
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Form2.resources
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Form3.resources
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Properties.Resources.resources
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome_Screen.Selecthall.resources
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.GenerateResource.Cache
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.CoreCompileInputs.cache
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.exe
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.pdb
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe.config
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe
+C:\Users\P106\Desktop\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.pdb
